@@ -1,0 +1,42 @@
+{
+  "tripName": "European Summer Getaway",
+  "traveler": {
+    "name": "Jane Doe",
+    "contact": {
+      "email": "jane.doe@example.com",
+      "phone": "555-0199"
+    }
+  },
+  "destinations": [
+    {
+      "location": "Paris",
+      "arrivalDate": "2026-06-01",
+      "departureDate": "2026-06-05",
+      "activities": [
+        {
+          "title": "Visit the Eiffel Tower",
+          "time": "10:00 AM"
+        },
+        {
+          "title": "Louvre Museum Tour",
+          "time": "02:00 PM"
+        }
+      ]
+    },
+    {
+      "location": "Rome",
+      "arrivalDate": "2026-06-05",
+      "departureDate": "2026-06-10",
+      "activities": [
+        {
+          "title": "Colosseum Guided Tour",
+          "time": "09:00 AM"
+        },
+        {
+          "title": "Vatican Museums and Sistine Chapel",
+          "time": "01:30 PM"
+        }
+      ]
+    }
+  ]
+}
